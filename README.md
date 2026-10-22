@@ -4,7 +4,7 @@
 
 How can publicly available customer reviews help a consumer brand understand what customers appreciate and where their experience could improve?
 
-This project analyses the public product catalogue of Indimums and a sample of 60 customer reviews across six selected products. I used Excel to organise the data, classify feedback themes and sentiment, and summarise the results. I then built a Power BI dashboard to compare customer feedback patterns and product ratings.
+This project analyses the public product catalogue of Indimums and a sample of 60 customer reviews across six selected products. I used Google Sheets to organise the data, classify feedback themes and sentiment, and summarise the results. I then built a Power BI dashboard to compare customer feedback patterns and product ratings.
 
 The goal was to turn unstructured review text into a structured view of customer experiences and potential areas for further investigation.
 
@@ -18,7 +18,7 @@ The goal was to turn unstructured review text into a structured view of customer
 
 ## Tools Used
 
-- **Excel:** Data organisation, review classification, summary tables, and PivotTables
+- **Google Sheets:** Data organisation, review classification, summary tables, and PivotTables
 - **Power BI:** KPI cards, charts, slicers, product comparisons, and dashboard reporting
 
 ## Data Sources and Scope
@@ -96,28 +96,28 @@ The exported PDF report can be viewed in this repository.
 
 ## Potential Business Implications
 
-- Review whether product descriptions and FAQs clearly communicate expectations around lather, fragrance, and usage.
-- Examine delivery and packaging complaints separately from product-related concerns.
-- Verify questionable product associations and near-duplicate reviews before using review summaries for decisions.
-- Use mixed feedback to identify questions for further investigation rather than assuming a problem affects all customers.
+- Check whether product descriptions and FAQs clearly explain lather, fragrance, and how to use the products.
+- Look at delivery and packaging complaints separately from feedback about product quality and performance.
+- Check reviews that may be duplicates or linked to the wrong product before using the results.
+- Use mixed reviews to find areas that may need further investigation, rather than assuming the same problem affects all customers.
 
-These are potential follow-up actions, not evidence that the brand has widespread issues.
+These are possible next steps based on the analysis, not proof that the brand has widespread problems.
 
 ## Limitations
 
-- The analysis covers 60 manually selected public reviews across six products and is not a representative customer survey.
-- Theme and sentiment classifications involve manual interpretation.
-- Customer-reported product experiences were not independently verified.
-- Public catalogue information and displayed ratings are snapshots that may change.
-- The available data does not establish actual sales, revenue, profitability, customer retention, or repeat purchases.
-- The analysis was conducted independently using public information; it was not commissioned or endorsed by Indimums.
+- The analysis includes 60 selected public reviews across six products, so it may not represent all customers.
+- Review themes and sentiments were classified manually and may involve some personal judgement.
+- Customer experiences shared in reviews were not independently verified.
+- Product details and ratings were recorded at a specific point in time and may change.
+- The available data does not show actual sales, revenue, profit, customer retention, or repeat purchases.
+- This was an independent analysis using public information. It was not requested, funded, or approved by Indimums.
 
 ## Project Files
 
 - `README.md` — Project documentation
 - `Indimums_Customer_Feedback_Analysis.pdf` — Exported Power BI dashboard
-- Cleaned Excel workbook — Catalogue, review sample, summary, and theme classifications
+- Cleaned Google Sheets workbook — Catalogue, review sample, summary, and theme classifications
 
 ## Author's Note
 
-This project demonstrates how Excel and Power BI can be used to organise unstructured customer feedback, identify recurring themes, and communicate findings with clear limitations.
+This project demonstrates how Google Sheets and Power BI can be used to organise unstructured customer feedback, identify recurring themes, and communicate findings with clear limitations.
