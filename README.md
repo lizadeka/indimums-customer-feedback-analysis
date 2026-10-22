@@ -89,8 +89,7 @@ The Power BI report contains two pages.
 
 ### Page 2 — Feedback Insights
 
-![Feedback Insights](feedback-insights.png)
-
+<img width="1172" height="705" alt="image" src="https://github.com/user-attachments/assets/b09a92c4-442f-4ff3-b214-daef136a6713" />
 
 - Customer feedback themes by sentiment
 - Product feedback versus operational issues
