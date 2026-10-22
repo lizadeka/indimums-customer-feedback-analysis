@@ -79,6 +79,8 @@ The Power BI report contains two pages.
 
 ### Page 1 — Customer Feedback Overview
 
+![Customer Feedback Overview](<img width="1172" height="702" alt="image" src="https://github.com/user-attachments/assets/9dc2b9c0-72c3-4274-8e81-a33db85bf9ad" />)
+
 - Reviews analysed, positive reviews, and negative reviews
 - Most common customer feedback themes
 - Overall sentiment distribution
@@ -86,6 +88,9 @@ The Power BI report contains two pages.
 - Product and sentiment slicers
 
 ### Page 2 — Feedback Insights
+
+![Feedback Insights](feedback-insights.png)
+
 
 - Customer feedback themes by sentiment
 - Product feedback versus operational issues
