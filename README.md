@@ -79,7 +79,7 @@ The Power BI report contains two pages.
 
 ### Page 1 — Customer Feedback Overview
 
-![Customer Feedback Overview](<img width="1172" height="702" alt="image" src="https://github.com/user-attachments/assets/9dc2b9c0-72c3-4274-8e81-a33db85bf9ad" />)
+<img width="1172" height="702" alt="image" src="https://github.com/user-attachments/assets/59b4e51d-8011-4df2-865a-7f0e07e4dbb7" />
 
 - Reviews analysed, positive reviews, and negative reviews
 - Most common customer feedback themes
